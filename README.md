@@ -5,6 +5,6 @@ I added my own methods and tweaked it to my liking
 
 ## Give it a go!
 ```bash
-python model_test.py --input sample.jpg'
+pip install -r .\requirements.txt
 ```
 * Run main.py
