@@ -7,4 +7,7 @@ I added my own methods and tweaked it to my liking
 ```bash
 pip install -r .\requirements.txt
 ```
-* Run main.py
+Run main.py
+```bash
+python .\main.py
+```
